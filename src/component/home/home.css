@@ -1,0 +1,1185 @@
+
+#eduSlider{
+    height:220px;
+    width:100%;
+    margin-left:0%;
+    margin-top:0px;
+    border:1px solid red;
+ }
+
+
+ 
+ .slideImgContent{
+     width: 90% !important;
+     height:220px  !important;
+     margin-top: 322px !important;
+     margin-left: 5%;
+   
+ }
+
+ #heading{
+  
+    font-size: 30px;
+    color:rgb(238 160 160);
+    
+}
+
+#heading img{
+    height: 500px;
+    width:100%;
+    margin-top: 0px;
+}
+
+ #heading p { 
+    font-family: italic;
+    font-size: 48px;
+    font-weight: 400;
+    position:absolute;
+    margin-top: 0px;
+    margin-left:330px;
+    color:white;
+} 
+
+/* 
+#head{
+
+    font-family: italic;
+    font-size: 48px;
+    font-weight: 400;
+    position:absolute;
+    margin-top: 0px;
+    margin-left:330px;
+    color:white
+} */
+
+#special{
+    height:200px;
+    width:96%;
+    position: absolute;
+    margin-left:53px;
+    margin-right:2%;
+    margin-bottom: 25px;
+    margin-top: 31px;
+}
+
+#special .content1{
+    height:142px;
+    width:31%;
+    margin-left: 5px;
+    margin-right: 10px;
+    float: left;
+    font-size:16px;
+    margin-top:5px;
+    border-radius:5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+  
+#special h2{
+   position:absolute;
+   margin-left:41%;
+   font-size: 22px;
+   font-weight: bold;
+   margin-top: -57px !important;
+}
+   
+.div-img > img {
+    width:46%;
+    height:143px;
+    border-radius: 5px;
+
+}
+/*h3,h4,h5*/
+/* h3{
+    position:absolute;
+    margin-left: 186px;
+    margin-right:0px;
+    margin-top: -14px;
+    margin-bottom: -7px;
+    font-size: 15px ;
+
+} */
+
+.discription h3{
+
+    position:absolute;
+    margin-left: 186px;
+    margin-right:0px;
+    margin-top: -136px;
+    margin-bottom: -7px;
+    font-size: 18px ;
+    font-weight: bold
+}
+
+
+ #oldprice{
+
+    position:absolute;
+    margin-top:-104px;
+
+
+}
+#newprice{
+    position:absolute;
+    margin-top:-96px;
+    margin-left:190px;
+
+}
+.discription p{
+    position:absolute;
+    margin-top:-70px;
+    margin-left:190px;
+
+}
+.discription span{
+    position:absolute;
+    margin-top:-28px;
+    margin-left:190px;
+
+}
+.discription .btn-bt{
+    color: rgb(175, 37, 37);
+    height:27px;
+    width:9%;
+    position:absolute;
+    margin-top:-32px;
+    margin-left:256px;
+    font-size:10p3;
+
+}
+
+.discription .btn-bt:hover{
+    color:white;
+    background:gray;
+}
+
+/* .discription2 h3{
+
+    position:absolute;
+    margin-left: 186px;
+    margin-right:0px;
+    margin-top: -136px;
+    margin-bottom: -7px;
+    font-size: 18px ;
+    font-weight: bold
+}
+
+.discription2 p{
+    position:absolute;
+    margin-top:-70px;
+    margin-left:190px;
+
+}
+.discription2 span{
+    position:absolute;
+    margin-top:25px;
+    margin-left:190px;
+
+} */
+
+
+
+#Kashmiriwazwan{
+    
+    height: 400px;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top: 220px;
+    /*background-color: #352f2f;*/
+    box-shadow: 0 0 10px rgb(213, 144, 240);
+    color: #fff;
+    
+}
+
+#clue{
+    height:400px;
+    width:100%;
+    
+}
+#clue>img{
+    display: inline-block;
+    /*position: absolute;
+    margin-left: 466px;
+    width:52%;*/
+    /* height:400px !important;
+    width:100% !important; */
+   
+    height:400px;
+    width:100%;
+}
+
+.content{
+  
+    font-size:18px; 
+    position:absolute;
+    margin-top: 184px;
+    margin-left:59px;
+    float:left;  
+}
+
+
+.crook{
+    color: rgb(183 72 72);
+    height:28px;
+    width:25%;
+    margin-top:29px
+
+}
+.crook:hover{
+    color: rgb(247, 244, 244);
+    background:lightgreen;
+}
+
+
+
+ .content span  {
+     font-size: 29px;
+     letter-spacing: 10px;
+}
+ 
+
+.dc{
+    font-size:26px;
+    font-weight:bold;
+    display: block;
+    letter-spacing: 10px;
+ 
+}
+.dc:hover{
+    color:rgb(235, 232, 239);
+    font-size:30px;
+}
+
+p{
+    margin-top:20px;
+    color:#121010;
+}
+
+
+
+
+#Franchise {
+    height: 400px;
+    width:80%;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 25px;
+    background-color: #494839;
+    color: #fff;
+    box-shadow:0 0 10px rgb(89 92 92);
+
+}
+
+
+#clue2{
+    height:400px;
+    width:100%;
+    
+}
+#clue2>img{
+    display: inline-block;
+    /*position: absolute;
+    margin-left: 466px;
+    width:52%;*/
+    /* height:400px !important;
+    width:100% !important; */
+    height:400px;
+    width:100%;
+}
+
+#Coffee {
+    height: 400px;
+    width:80%;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #30091a;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(0, 1, 0.4);
+}
+#coffee:hover{
+    color:rgb(248, 248, 86);
+}
+
+.prag{
+    color:#ece8ea;
+}
+
+.content p{
+    color:#e9e1e1;
+}
+
+#clue3{
+    height:400px;
+    width:100%;
+    
+}
+#clue3>img{
+    display: inline-block;
+    /*position: absolute;
+    margin-left: 466px;
+    width:52%;*/
+    /* height:400px !important;
+    width:100% !important; */
+    height:400px;
+    width:100%;
+}
+
+
+
+
+
+
+@media screen and (max-width:1400px) {
+    body{
+    background-color:rgb(253, 252, 252)
+    }
+
+    #heading p {
+        margin-top: 161px;
+        margin-left: 310px;
+        
+    }
+    #logo > span {
+        margin-left: 8px;
+    }
+     
+
+    #recipe {
+        margin-left: 9%;
+    }
+  
+    h3 {
+    margin-left: 187px;
+
+   }
+}
+
+
+@media screen and (max-width:1300px) {
+
+    body {
+     background-color:rgb(187, 180, 185)
+     } 
+    
+     #heading p {
+        
+            margin-top: 140px;
+            margin-left: 320px;
+        }
+    
+
+    #dropdown {
+        margin-left: 33%;
+        margin-top: 19%;
+       
+    }
+    #special h2 {
+        margin-left: 41%;
+        margin-top: -55px !important;
+    }
+    
+}
+
+
+@media screen and (max-width:1200px) {
+
+   body {
+    background-color:rgb(238, 199, 228)
+    } 
+
+    #heading p {
+        margin-top: 204px;
+        margin-left: 267px;
+    }
+    
+    #dropdown {
+        margin-left: 29%;
+        margin-top: 22%;
+    }
+
+    .discription .btn-bt {
+        margin-left: 207px;
+    }
+
+   
+}
+
+@media screen and (max-width:1150px){
+
+    body{
+    background-color:rgb(245, 189, 189)
+   }
+    
+   #heading p {
+    margin-top: 191px;
+    margin-left: 255px;
+    }
+
+    #dropdown {
+        margin-left: 30%;
+    }
+   
+    #logo > span {
+        margin-left: 9px;
+    }
+    
+    #logo {
+        width: 6%;
+    }
+
+    #recipe {
+        margin-left: 8%;
+    }
+   
+}
+
+
+
+
+@media screen and (max-width:1100px){
+
+    body{
+    background-color:rgb(243, 194, 194)
+   }
+
+   #heading p {
+    margin-top: 168px;
+    margin-left: 194px;
+}
+
+#dropdown {
+    margin-left: 27%;
+    margin-top: 21%;
+}
+
+#special .content1 {
+    font-size: 13px;
+}
+
+h3 {
+    margin-left: 160px;
+}
+
+h4 {
+    margin-left: 161px;
+}
+
+h5 {
+    margin-left: 162px;
+}
+
+#recipe {
+    margin-left: 70px;
+}
+#logo {
+    width: 6%;
+}
+
+#special {
+    margin-left: 49px;
+}
+
+
+}
+
+@media screen and (max-width:1050px){
+
+    body{
+    background-color:lightgray
+   }
+
+   #dropdown {
+    margin-left: 30%;
+    margin-top: 22%;
+   }
+
+   .discription .btn-bt {
+    margin-left: 199px;
+   }
+
+   #recipe {
+    margin-left: 58px;
+   }
+
+   #logo{
+    width: 6%;
+   }
+   #logo > span {
+    margin-left: 8px;
+   }
+  
+   #heading p {
+    margin-top: 165px;
+    margin-left: 206px;
+}
+
+
+}
+
+@media screen and (max-width:1000px){
+
+    #heading p {
+        margin-left: 171px;
+        margin-top: 188px;
+    }
+
+    #dropdown {
+        margin-left: 24%;
+        margin-top: 25%;
+        width: 54%;
+    }
+
+    #logo {
+        width: 7%;
+    }
+    
+
+    h3 {
+        margin-left: 175px;
+    }
+
+    h4 {
+        margin-left: 175px;
+    }
+
+    h5 {
+        margin-left: 175px;
+    }
+
+    .div-img > img {
+        width: 53%;
+    }
+    
+    .discription .btn-bt {
+        margin-left: 191px;
+        width: 9%;
+    }
+
+    #recipe {
+        height: 449px;
+        margin-left: 32px;
+    }
+    #recipe .recipe1 {
+        width: 24%;
+        margin-left: 66px;
+    }
+     
+
+    .recipe1 > img {
+        width: 124%;
+        height: 138px;
+     }
+   
+     #special {
+        margin-left: 46px;
+    }
+
+}
+
+@media screen and (max-width:960px){
+    body{
+    background-color:rgb(217, 248, 217)
+   }
+
+   
+   
+   h3 {
+    margin-left: 167px;
+    }
+     
+    h4 {
+        margin-left: 167px;
+    }
+    h5 {
+        margin-left: 167px;
+    }
+
+    .discription .btn-bt {
+         margin-left: 164px;
+    }
+
+    #heading p {
+        margin-left: 138px;
+        margin-top: 205px;
+    }
+
+    #dropdown {
+        margin-left: 21%;
+        margin-top: 28%;
+         width: 56%;
+    }
+
+    .recipe1 > img {
+        height: 139px;
+    }
+
+    #recipe {
+        margin-left: 53px;
+    }
+    
+    #recipe .recipe1 {
+        width: 22%;
+        margin-left: 64px;
+    }
+
+
+    #created {
+        margin-left: -284px;
+    }
+
+    
+
+     #logo > span {
+          font-size: 24px;
+     }
+
+     #search .id3 {
+        margin-left: 78%;
+     }
+
+
+}
+
+@media screen and (max-width:910px)
+{
+    body{
+    background-color:rgb(236, 250, 236)
+   }
+
+   #dropdown {
+    margin-left: 23%;
+    margin-top: 29%;
+   }
+}
+
+
+@media screen and (max-width:880px)
+{
+    body{
+    background-color:rgb(89, 94, 89)
+   }
+   
+   #Kashmiriwazwan {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+   }
+   
+   #Franchise {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+   }
+   
+
+   #Coffee {
+    height: 400px;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+   }
+   
+   #dropdown {
+    margin-top: 32%;
+   }
+
+   #heading p {
+    margin-left: 119px;
+    margin-top: 209px;
+  }
+  h3 {
+    margin-left: 144px;
+}
+
+h4 {
+    margin-left: 144px;
+}
+
+h5 {
+    margin-left: 144px;
+}
+
+}
+@media screen and (max-width:805px)
+{
+    body{
+    background-color:rgb(89, 94, 89)
+   }
+
+   #dropdown {
+    margin-top: 34%;
+   }
+
+   #Coffee {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+   }
+
+   #Franchise{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+   }
+   
+   #Kashmiriwazwan{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+   }
+
+   #heading p {
+    margin-left:83px;
+   }
+    
+   h3 {
+    margin-left: 132px;
+  }
+
+  h4 {
+    margin-left: 131px;
+  }
+
+  h5 {
+    margin-left: 131px;
+   }
+
+.discription .btn-bt {
+    margin-left: 148px;
+  }
+
+   #logo .talk {
+    margin-left: 107px;
+   }
+
+   #delivery {
+    margin-left: 8px;
+   }
+   #special {
+    margin-left: 15px;
+}
+
+#special .content1 {
+    margin-left: 7px;
+}
+
+}
+
+
+@media screen and (max-width:770px){
+    body{
+    background-color:rgb(167, 175, 167)
+   }
+    
+   #dropdown {
+    margin-top: 35%;
+    width: 62%;
+   }
+
+   #heading p {
+    margin-left: 108px;
+    font-size: 44px;
+    margin-top: 210px;
+   }
+
+   h3 {
+    margin-left: 209px;
+   }
+   
+   h4 {
+    margin-left: 209px;
+}
+
+h5 {
+    margin-left: 209px;
+}
+#recipe {
+    margin-left: 0px;
+    width: 106%;
+}
+#recipe .recipe1 {
+    margin-left: 47px;
+}
+
+#logo {
+    width: 9%;
+    margin-left: 28px;
+    margin-top: 3%;
+}
+
+#special .content1 {
+    width: 44%;
+}
+
+.discription .btn-bt {
+    margin-left: 230px;
+}
+
+#Kashmiriwazwan {
+    margin-top: 403px;
+}
+.div-img > img {
+    width: 42%;
+}
+
+#special {
+    margin-left: 21px;
+}
+
+.discription p {
+    margin-left: 235px;
+}
+
+
+.discription h3 {
+    margin-left: 233px;
+}
+
+.discription .btn-bt {
+    margin-left: 500px;
+    width: 14%;
+    margin-top: -38px;
+}
+
+}
+   @media screen and (max-width:730px){
+    body{
+    background-color:rgb(167, 175, 167)
+   }
+
+
+   #heading p {
+    margin-left: 74px;
+    margin-top: 205px;
+}
+
+#dropdown {
+    margin-left: 20%;
+    margin-top: 37%;
+    width: 66%;
+}
+
+#logo .talk {
+    margin-left: 84px;
+}
+
+#logo {
+    
+    width: 9%;
+    margin-left: 29px;
+    margin-top: 4%;
+}
+
+#search .id3 {
+    margin-left: 74%;
+}
+
+#special .content1 {
+    width: 74%;
+    margin-left: 60px;
+    margin-top: 33px;
+}
+.searchbox {
+    margin-left: 2%;
+}
+
+#Kashmiriwazwan {
+    margin-top: 590px
+}
+
+h3 {
+    margin-left: 203px;
+}
+
+h4 {
+    margin-left: 204px;
+}
+
+h5 {
+    margin-left: 204px;
+}
+
+#logo .talk {
+    margin-left: 101px;
+}
+
+#recipe .recipe1 {
+    margin-left: 50px;
+}
+
+#recipe {
+    margin-left: -1px;
+}
+
+.footer-col {
+    width: 32%;
+}
+
+.discription .btn-bt {
+    margin-left: 233px;
+}
+
+   }
+
+#special h2 {
+
+    margin-left: 41%;
+    margin-top: -28px 
+}
+
+@media screen and (max-width:680px){
+    body{
+    background-color:rgb(243, 212, 228)
+   }
+
+   #heading p {
+    margin-left: 110px;
+    font-size: 36px;
+    margin-top: 233px;
+   }
+
+    .discription .btn-bt {
+        margin-left: 198px;
+        width: 12%;
+    }
+
+   #logo {
+    width: 10%;
+  }
+  #dropdown {
+    margin-top: 43%;
+    margin-left: 21%;
+}
+ 
+h3 {
+    margin-left: 188px;
+}
+
+h4 {
+    margin-left: 188px;
+}
+
+h5 {
+    margin-left: 188px;
+}
+
+#recipe {
+    margin-left: -10px;
+}
+
+#logo {
+    margin-top: 3%;
+}
+
+#special {
+    margin-left: 35px;
+}
+
+select {
+    height: 29px;
+    font-size: 14px;
+}
+}
+
+
+@media screen and (max-width:610px){
+    body{
+    background-color:rgb(240, 220, 230)
+   }
+
+  
+   #dropdown {
+    margin-top: 45%;
+  }
+
+  #heading p {
+    margin-left: 76px;
+    font-size: 36px;
+    margin-top: 220px;
+}
+
+h3 {
+    margin-left: 279px;
+}
+
+h4 {
+    margin-left: 279px;
+}
+h5 {
+    margin-left: 279px;
+}
+
+.discription .btn-bt {
+    margin-left: 325px;
+    width: 13%;
+
+}
+
+#recipe {
+    margin-left: -6px;
+}
+
+#Kashmiriwazwan {
+    margin-top: 564px;
+}
+
+#recipe .recipe1 {
+    margin-left: 47px;
+    margin-left: 43px;
+}
+#special {
+    margin-left: 47px;
+}
+#special .content1 {
+    width: 76%;
+    margin-left: 51px;
+}
+
+select {
+    height: 31px;
+    font-size: 13px;
+}
+
+}
+
+@media screen and (max-width:560px){
+    body{
+    background-color:rgb(167, 177, 167)
+    }
+
+    #dropdown {
+        margin-top: 50%;
+    }
+
+    #heading p {
+        font-size: 32px;   
+        margin-top: 229px;
+        margin-left: 69px;
+
+
+    }
+
+    #logo {
+        width: 12%;
+    }
+
+    #search .id2 {
+        margin-top: 5%;
+    }
+
+    #search .id3 {
+        margin-top: 5%;
+    }
+
+    #logo {
+        margin-top: 6%;
+    }
+
+    #special .content1 {
+        width: 83%;
+    }
+    
+    #special {
+        margin-left: 23px;
+    }
+     
+
+    h3 {
+        margin-left: 272px;
+    }
+
+
+    h4{
+        margin-left: 272px;
+    }
+
+
+    h5 {
+        margin-left: 272px;
+    }
+
+    #Kashmiriwazwan {
+        margin-top: 573px;
+    }
+
+    .discription .btn-bt {
+        margin-left: 317px;
+        width: 13%;
+    }
+
+    #recipe {
+        margin-left: 5px;
+    }
+    #recipe .recipe1 {
+        margin-left: 35px;
+    }
+
+    select {
+        height: 30px;
+        font-size: 13px;
+    }
+
+}
+
+
+@media screen and (max-width:500px){
+    body{
+    background-color:rgb(167, 177, 167)
+   }
+
+   #special .content1 {
+    width: 78%;
+    margin-left: -4px;
+  }
+
+  #dropdown {
+    margin-top: 57%;
+  }
+
+  h3 {
+    margin-left: 259px;
+}
+h4{
+    margin-left: 259px;
+}
+h5 {
+    margin-left: 259px;
+}
+
+#special .content1 {
+    width: 80%;
+    margin-left: 49px;
+}
+
+.discription .btn-bt {
+    margin-left: 283px;
+    width: 14%;
+}
+
+.div-img > img {
+    width: 60%;
+}
+
+#Kashmiriwazwan {
+    margin-top: 569px;
+}
+
+
+#recipe .recipe1 {
+    margin-right: -8px;
+}
+
+#heading p {
+    font-size: 30px;
+    margin-top: 237px;
+    margin-left: 61px;
+}
+select {
+    height: 26px;
+    font-size: 12px;
+}
+
+}
